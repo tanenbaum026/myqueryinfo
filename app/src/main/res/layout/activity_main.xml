@@ -29,7 +29,6 @@
         android:id="@+id/button_4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="查询部件事件"
-        />
+        android:text="查询部件事件" />
 
 </LinearLayout>
