@@ -35,7 +35,7 @@ public class queryinfo extends AppCompatActivity {
 
     // 数据库的用户名与密码，需要根据自己的设置
     private static final String USER = "root";
-    private static final String PASS = "030906zxy";
+    private static final String PASS = ";
 
     private String sedit;
     private String data;
